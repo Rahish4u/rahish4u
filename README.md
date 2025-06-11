@@ -43,8 +43,8 @@
 
 ### 📫 Connect with Me
 
-[![linkedin.com/in/rahish-941653262](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahishali)
-[![rahishali0591@gmail.com](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:rahishalivns@gmail.com)
+[![linkedin.com/in/rahish-941653262](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/rahish-941653262)
+[![rahishali0591@gmail.com](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](rahishali0591@gmail.com)
 
 ---
 
