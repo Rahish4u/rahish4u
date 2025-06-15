@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Rahish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahish4u&show_icons=true&theme=radical)
-![Rahish's Streak](https://github-readme-streak-stats.herokuapp.com?user=Rahish4u&theme=radical)
-![Rahish's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahish4u&layout=compact&theme=radical)
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
