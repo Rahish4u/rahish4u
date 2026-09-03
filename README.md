@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahish Ali</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **[Glow Atelier](https://github.com/Rahish4u/Glow-Atelier)**  
-- 🌱 I’m currently learning **DSA, AI integration, and advanced React.js**  
+- 🔭 I’m made my recent project **[Glow Atelier](https://github.com/Rahish4u/Glow-Atelier)**   
 - 👯 I’m looking to collaborate on **open source frontend/backend projects**  
 - 💬 Ask me about **MERN Stack, JavaScript, and GitHub projects**  
 - 📫 How to reach me: **rahishali0591@gmail.com**  
